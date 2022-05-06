@@ -9,7 +9,7 @@ public class Correntista {
 	public Conta getConta()	{
 		return conta;
 	}
-	public void setconta() {
+	public void setConta(Conta conta) {
 		this.conta = conta;
 	}
 	public Integer getId() {
